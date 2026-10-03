@@ -1,0 +1,9 @@
+# 이 파일을 local.properties 로 복사하고 키를 채우세요. (local.properties 는 git 에 올라가지 않습니다)
+# sdk.dir 은 Android Studio 가 자동으로 넣어줍니다.
+
+# 알라딘 Open API TTB 키 - https://www.aladin.co.kr/ttb/wblog_manage.aspx
+ALADIN_TTB_KEY=
+# 카카오 REST API 키 - https://developers.kakao.com
+KAKAO_REST_KEY=
+# 예스24 오픈 API 키 (없으면 비워두면 책등 자동 조회를 건너뜀)
+YES24_API_KEY=

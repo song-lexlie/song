@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 실제 색상은 Compose 테마(core/ui/theme)에서 그린다. 여기는 시작 화면 배경만. -->
+    <style name="Theme.Bookshelf" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>
